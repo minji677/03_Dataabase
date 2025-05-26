@@ -13,6 +13,11 @@
     <file url="file://$PROJECT_DIR$/04_SQL심화/advanced/02_sqldb.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/04_SQL심화/advanced/03_employeesdb.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/04_SQL심화/basic/01_sqldb.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/advanced/01_tabledb/01.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/01_tabledb/01_ddl.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/01_tabledb/02_dml.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/01_tabledb/03_ddl.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/01_tabledb/04_create_view.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/dd.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
