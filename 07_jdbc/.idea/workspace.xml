@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="226f1ad9-58f1-47fb-adcf-daecc681c0df" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../algorithm/algorithm0425/src/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithm/algorithm0425/src/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/CH03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch01/src/test/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch01/src/test/TVUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch02-conditional-loof-reference/src/basic/ch04/sec02/IfDiceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch02-conditional-loof-reference/src/basic/ch05/sec05/ChaarAtExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch02-conditional-loof-reference/src/basic/ch05/sec05/ReplaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch02-conditional-loof-reference/src/basic/ch05/sec05/SubStringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch02-conditional-loof-reference/src/basic/lecture/ArrayCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch04-Inheritance/src/ch07/sec03/exam02/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch04-Inheritance/src/ch07/sec03/exam02/Smartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch04-Inheritance/src/ch07/sec03/exam02/SmartphoneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch04-Inheritance/src/ch07/sec04/exam01/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch04-Inheritance/src/ch07/sec04/exam01/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch04-Inheritance/src/ch07/sec04/exam01/ComputerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch04-Inheritance/src/ch07/sec04/exam02/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch04-Inheritance/src/ch07/sec04/exam02/SupersonicAirplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch04-Inheritance/src/ch07/sec04/exam02/SupersonicAirplaneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch04-Inheritance/src/ch07/sec07/exam01/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch04-Inheritance/src/ch07/sec07/exam01/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch04-Inheritance/src/ch07/sec07/exam01/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch04-Inheritance/src/ch07/sec07/exam01/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch04-Inheritance/src/ch07/sec07/exam01/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch04-Inheritance/src/ch07/sec07/exam01/PromotionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch04-Inheritance/src/ch07/sec07/exam02/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch04-Inheritance/src/ch07/sec07/exam02/ChildExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/ch04-Inheritance/src/ch07/sec07/exam02/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_ex_20250521/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_ex_20250521/jdbc_ex/src/main/java/org/scoula/jdbc_ex/UserMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_ex_20250521/jdbc_ex/src/main/java/org/scoula/jdbc_ex/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_ex_20250521/jdbc_ex/src/main/java/org/scoula/jdbc_ex/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_ex_20250521/jdbc_ex/src/main/java/org/scoula/jdbc_ex/domain/UserVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_ex_20250521/jdbc_ex/src/main/java/org/scoula/jdbc_ex/service/LoginUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_ex_20250521/jdbc_ex/src/test/java/org/scoula/jdbc_ex/dao/UserDaoImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc_ex_20250521/jdbc_ex/src/test/java/org/scoula/jdbc_ex/test/CrudTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec06/exam01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec07/exam01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec07/exam01/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec07/exam02/Korean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec07/exam02/KoreanExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec07/exam03/Korean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec07/exam04/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec07/exam04/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec07/exam05/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec07/exam05/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec08/exam01/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec08/exam01/CalculatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec08/exam02/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec08/exam02/ComputerExamaple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec08/exam03/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec08/exam03/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec08/exam04/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec08/exam04/CalculatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec09/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/ch06/src/sec09/CarExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_WEB/vue/09-Router/router-test/src/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../01_WEB/vue/09-Router/router-test/src/components/Header.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2xRPe6m0yFjDR3nRLskUnTbxYQv" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/fullstack/07_jdbc",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="226f1ad9-58f1-47fb-adcf-daecc681c0df" name="변경" comment="" />
+      <created>1747898004914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747898004914</updated>
+      <workItem from="1747898005977" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
